@@ -1,7 +1,7 @@
 # Dragon Paneer Chilli recipe
 
 
-![image](http://www.foodista.com/sites/default/files/styles/thumb_270x175/public/dragon%20Paneer%20Chilli.jpg)
+![photo](recipes/dragon.jpg)
 
 
 
@@ -48,4 +48,3 @@ Add deep fried paneer into the pan, crushed black pepper, chopped coriander leav
 Garnish with coriander leaves. Serve Hot.
 
 ___*Here we are!*___
-
